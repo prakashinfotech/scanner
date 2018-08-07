@@ -26,7 +26,7 @@ public class ScanditScannerActivity extends AppCompatActivity implements OnScanL
     private boolean mDeniedCameraAccess = false;
     private boolean mPaused = true;
     private Toast mToast = null;
-    public static String SCANDIT_SDK_APP_KEY = "S7REaN9YEeKQLkrJdLr/zWYoZILMH8GS7XA4oOFoVLI";
+    public static String SCANDIT_SDK_APP_KEY = "Add Your Scandit Key";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

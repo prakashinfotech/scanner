@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:D.\PrakashAndroidPortfolio\scanner\zbar\libs\zbar.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zbar/libs/zbar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

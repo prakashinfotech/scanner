@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\POC\\ScannerPOC\\core\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\PrakashAndroidPortfolio\\scanner\\core\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "D:\\POC\\ScannerPOC\\core\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\PrakashAndroidPortfolio\\scanner\\core\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 160,
+                        "startOffset": 164,
                         "endColumn": 53,
-                        "endOffset": 209
+                        "endOffset": 213
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 157
                 },
                 "from": {
-                    "file": "D:\\POC\\ScannerPOC\\core\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\PrakashAndroidPortfolio\\scanner\\core\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 107,
+                        "startOffset": 110,
                         "endColumn": 52,
-                        "endOffset": 155
+                        "endOffset": 158
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 209
                 },
                 "from": {
-                    "file": "D:\\POC\\ScannerPOC\\core\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\PrakashAndroidPortfolio\\scanner\\core\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 51,
-                        "endOffset": 102
+                        "endOffset": 104
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 864
                 },
                 "from": {
-                    "file": "D:\\POC\\ScannerPOC\\core\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\PrakashAndroidPortfolio\\scanner\\core\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 76,
+                        "startOffset": 78,
                         "endColumn": 57,
-                        "endOffset": 129
+                        "endOffset": 131
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 920
                 },
                 "from": {
-                    "file": "D:\\POC\\ScannerPOC\\core\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\PrakashAndroidPortfolio\\scanner\\core\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
-                        "startOffset": 20,
+                        "startOffset": 21,
                         "endColumn": 55,
-                        "endOffset": 71
+                        "endOffset": 72
                     }
                 }
             }

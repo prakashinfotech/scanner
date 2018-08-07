@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scanner:ScanditBarcodeScanner">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/29576ca0b40e1a77b43ae69def417447d63d7f3b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/29576ca0b40e1a77b43ae69def417447d63d7f3b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
